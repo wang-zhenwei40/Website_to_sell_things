@@ -1,0 +1,16 @@
+* {
+    text-decoration: none;
+}
+* header{
+    color: white;
+    background-color: black;
+}
+* header h1{
+    color: white;
+}
+* header ul{
+    color:white;
+}
+* header a{
+    color: white;
+}
