@@ -1,3 +1,4 @@
+/* header code */
 * {
     text-decoration: none;
     padding: 0;
@@ -23,28 +24,4 @@
 * header a{
     color:white;
 
-}
-
-#section1{
-    text-align: center;
-
-}
-#section1{
-    font-size: 20pt;
-}
-#section1 img{
-    align-items: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-* #section1 ul li a{
-    color: black;
-    
-
-}
-* #section1 ul{
-    background-color: grey;
-    padding: 4px;
-    grid: ;
 }
