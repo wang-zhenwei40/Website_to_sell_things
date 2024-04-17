@@ -1,42 +1,55 @@
+/* header code */
 * {
     text-decoration: none;
     padding: 0;
     margin: 0;
 }
 * header{
-    color: white;
+    color: rgb(0, 0, 0);
     background-color: black;
-    height: 100px;
+    height: 250px;
 }
 * header h1{
-    color: white;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: "Brush Script MT",cursive;
+    font-size: 100px;
+    
 }
+
+
 * header ul{
     color:white;
     list-style-type: none;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
 
 }
 * header li{
     float:left;
-    padding-left: 20px;
+    padding-left: 350px;
 }
 * header a{
     color:white;
 
 }
 
+
+
+
 #section1{
     text-align: center;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 20pt
+}
 
-}
-#section1{
-    font-size: 20pt;
-}
 #section1 img{
-    align-items: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 200px; /* Set the desired width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image behaves as a block element */
+    margin-left: auto; /* Auto left margin */
+    margin-right: auto; /* Auto right margin */
 }
 * #section1 ul li a{
     color: black;
@@ -44,7 +57,20 @@
 
 }
 * #section1 ul{
-    background-color: grey;
+    background-color: white;
     padding: 4px;
-    grid: ;
+    
+    
+}
+* #section1 ul li {
+    border-bottom: 1px solid #ccc; /* Add border line between list items */
+}
+
+#section1 ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+* #section1 p {
+    color: grey;
 }
